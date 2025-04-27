@@ -1,29 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sem</h1>
 <h3 align="center">fullstack web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=destineeadams&label=Profile%20views&color=0e75b6&style=flat" alt="destineeadams" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=destineeadams" alt="destineeadams" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [hard75Tacker](https://github.com/DestineeAdams/hard75Tacker)
 
 - 🌱 I’m currently learning **react.js and reactnative**
-
-- 👯 I’m looking to collaborate on [hard75Tacker](https://github.com/DestineeAdams/hard75Tacker)
 
 - 👨‍💻 All of my projects are available at [https://semii.space](https://semii.space)
 
 - 🦋 Blue sky [https://bsky.app/profile/semcreates.bsky.social](https://bsky.app/profile/semcreates.bsky.social)
 
-- 💬 Ask me about **the book I'm currently reading**
-
-- 📫 How to reach me **in Bio**
-
 - 📄 Know about my experiences [https://semii.space/files/Resume.pdf](https://semii.space/files/Resume.pdf)
-
-- ⚡ Fun fact **I'm also an artist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
